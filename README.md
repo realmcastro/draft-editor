@@ -2,6 +2,10 @@
 
 Um editor de redação simples e eficiente construído com React, permitindo que usuários criem, editem e gerenciem parágrafos de texto com persistência local.
 
+## 🌍 Acesse o Site
+
+O Draft Editor está no ar! Acesse aqui: [Draft Editor](https://draft-editor-one.vercel.app/)
+
 ## 🚀 Funcionalidades
 
 - ✍️ **Edição em Tempo Real**: Digite e edite parágrafos com salvamento automático
@@ -64,3 +68,4 @@ src/
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
